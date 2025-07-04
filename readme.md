@@ -5,10 +5,10 @@
 
 ### Usuário
 > Toda e qualquer pessoa com acesso ao sistema, pode ser divido em categorias ou 'cargos'
-> Possui um login e senha unicos e intransferíveis, para autenticação no sistema
-> Dados Cadastrais: Nome Completo, Data de Nascimento, Numero da CNH, Data de Vencimento CNH, e-mail
-> Pode Possuir 0 ou mais veiculos vinculados
+> - Possui um login e senha unicos e intransferíveis, para autenticação no sistema
+> - Dados Cadastrais: Nome Completo, Data de Nascimento, Numero da CNH, Data de Vencimento CNH, e-mail
+> - Pode Possuir 0 ou mais veiculos vinculados
 
 ### Veiculo
 > Equipamento automotivo de 1 ou mais usuários
-> Dados Cadastrais: Placa, Renavam, Ultima Revisão, última troca de óleo, tipo de combustível, km atual
+> - Dados Cadastrais: Placa, Renavam, Ultima Revisão, última troca de óleo, tipo de combustível, km atual
